@@ -1,0 +1,452 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"libs"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "rails/app/serializers/speaker_serializer.rb",
+			"settings":
+			{
+				"buffer_size": 131,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ember/app/adapters/application.js",
+			"settings":
+			{
+				"buffer_size": 152,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ember/app/routes/speakers/create.js",
+			"settings":
+			{
+				"buffer_size": 334,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "rails/app/controllers/api/speakers_controller.rb",
+			"settings":
+			{
+				"buffer_size": 601,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"htm",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 383.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/mark/Dropbox/RoR_testProjs/bostonember",
+		"/Users/mark/Dropbox/RoR_testProjs/bostonember/ember",
+		"/Users/mark/Dropbox/RoR_testProjs/bostonember/ember/app",
+		"/Users/mark/Dropbox/RoR_testProjs/bostonember/ember/app/adapters",
+		"/Users/mark/Dropbox/RoR_testProjs/bostonember/ember/app/models",
+		"/Users/mark/Dropbox/RoR_testProjs/bostonember/ember/app/routes",
+		"/Users/mark/Dropbox/RoR_testProjs/bostonember/ember/app/routes/presentations",
+		"/Users/mark/Dropbox/RoR_testProjs/bostonember/ember/app/routes/speakers",
+		"/Users/mark/Dropbox/RoR_testProjs/bostonember/rails",
+		"/Users/mark/Dropbox/RoR_testProjs/bostonember/rails/app",
+		"/Users/mark/Dropbox/RoR_testProjs/bostonember/rails/app/controllers",
+		"/Users/mark/Dropbox/RoR_testProjs/bostonember/rails/app/controllers/api",
+		"/Users/mark/Dropbox/RoR_testProjs/bostonember/rails/app/models",
+		"/Users/mark/Dropbox/RoR_testProjs/bostonember/rails/app/serializers"
+	],
+	"file_history":
+	[
+		"/Users/mark/Dropbox/RoR_testProjs/bostonember/ember/app/models/presentation.js",
+		"/Users/mark/Dropbox/RoR_testProjs/bostonember/ember/app/models/speaker.js",
+		"/Users/mark/Dropbox/RoR_testProjs/bostonember/ember/app/router.js",
+		"/Users/mark/Dropbox/RoR_testProjs/bostonember/ember/app/routes/speakers/create.js",
+		"/Users/mark/Dropbox/RoR_testProjs/bostonember/ember/app/routes/presentations/create.js",
+		"/Users/mark/Dropbox/RoR_testProjs/bostonember/ember/app/templates/presentations/create.hbs",
+		"/Users/mark/Dropbox/RoR_testProjs/bostonember/ember/app/controllers/presentations/create.js",
+		"/Users/mark/bostonember/ember/app/routes/presentations/create.js",
+		"/Users/mark/bostonember/ember/app/controllers/presentations/create.js",
+		"/Users/mark/bostonember/ember/app/templates/speakers/show.hbs",
+		"/Users/mark/bostonember/ember/app/templates/presentations/create.hbs",
+		"/Users/mark/bostonember/ember/app/models/presentation.js",
+		"/Users/mark/bostonember/ember/app/templates/presentations/index.hbs",
+		"/Users/mark/bostonember/rails/app/controllers/api/presentations_controller.rb",
+		"/Users/mark/bostonember/ember/app/controllers/presentations.js",
+		"/Users/mark/bostonember/ember/app/routes/speakers/create.js",
+		"/Users/mark/bostonember/ember/app/templates/speakers/index.hbs",
+		"/Users/mark/bostonember/ember/app/templates/speakers/create.hbs",
+		"/Users/mark/bostonember/ember/app/router.js",
+		"/Users/mark/bostonember/ember/app/routes/speakers/index.js",
+		"/Users/mark/Library/Application Support/Sublime Text 3/Packages/BeautifyRuby/BeautifyRuby.sublime-settings",
+		"/Users/mark/bostonember/rails/app/controllers/api/speakers_controller.rb",
+		"/Users/mark/bostonember/ember/app/templates/application.hbs",
+		"/Users/mark/bostonember/ember/app/templates/speakers/edit.hbs",
+		"/Users/mark/Library/Application Support/Sublime Text 3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+		"/Users/mark/Library/Application Support/Sublime Text 3/Packages/User/HTMLBeautify.sublime-settings",
+		"/Users/mark/bostonember/ember/Brocfile.js",
+		"/Users/mark/bostonember/ember/vendor/bootstrap.min.css",
+		"/Users/mark/Dropbox/RoR_testProjs/Ember_Simple_Invoice/css/bootstrap.min.css",
+		"/Users/mark/bostonember/ember/.jshintrc",
+		"/Users/mark/bostonember/rails/config/routes.rb",
+		"/Users/mark/bostonember/ember/app/templates/presentations/edit.hbs",
+		"/Users/mark/bostonember/rails/Gemfile",
+		"/Users/mark/bostonember/ember/tests/integration/speakers-page-test.js",
+		"/Users/mark/bostonember/ember/tests/integration/landing-page-test.js",
+		"/Users/mark/bostonember/ember/tests/integration/about-page-test.js",
+		"/Users/mark/bostonember/ember/app/routes/speakers/edit.js",
+		"/Users/mark/bostonember/ember/app/routes/speakers/show.js",
+		"/Users/mark/bostonember/ember/app/routes/presentations/edit.js",
+		"/Users/mark/bostonember/ember/app/routes/presentations/index.js",
+		"/Users/mark/Library/Application Support/Sublime Text 3/Packages/JsFormat/JsFormat.sublime-settings",
+		"/Users/mark/Library/Application Support/Sublime Text 3/Packages/JsFormat/Default (OSX).sublime-keymap",
+		"/Users/mark/Library/Application Support/Sublime Text 3/Packages/Javascript Beautify/Default (OSX).sublime-keymap",
+		"/Users/mark/bostonember/ember/app/routes/presentations",
+		"/Users/mark/bostonember/ember/app/routes/edit.js",
+		"/Users/mark/Library/Application Support/Sublime Text 3/Packages/User/AdvancedNewFile.sublime-settings",
+		"/Users/mark/Library/Application Support/Sublime Text 3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/Users/mark/bostonember/rails/app/serializers/presentation_serializer.rb",
+		"/Users/mark/bostonember/rails/app/serializers/speaker_serializer.rb",
+		"/Users/mark/Library/Application Support/Sublime Text 3/Packages/User/Ruby.sublime-settings",
+		"/Users/mark/bostonember/ember/app/controllers/new/new.js",
+		"/Users/mark/bostonember/rails/test/controllers/presentations_controller_test.rb",
+		"/Users/mark/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/mark/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/mark/bostonember/ember/tests/.jshintrc",
+		"/Users/mark/bostonember/ember/tests/helpers/start-app.js",
+		"/Users/mark/bostonember/ember/app/index.html",
+		"/Users/mark/bostonember/ember/package.json",
+		"/Users/mark/bostonember/ember/testem.json",
+		"/Users/mark/bostonember/ember/app/helpers/start-app.js",
+		"/Users/mark/bostonember/ember/dist/assets/vendor.css",
+		"/Users/mark/bostonember/ember/dist/assets/vendor.js",
+		"/Users/mark/Dropbox/RoR_testProjs/emberreddit-old-master/index.html",
+		"/Users/mark/Dropbox/RoR_testProjs/emberreddit-old-master/js/app.js",
+		"/Users/mark/Dropbox/RoR_testProjs/emberreddit-old-master/js/routes.js",
+		"/Users/mark/Dropbox/RoR_testProjs/emberreddit-old-master/js/models.js",
+		"/Users/mark/Downloads/emberreddit-old-master/js/app.js",
+		"/Users/mark/Dropbox/RoR_testProjs/Ember_test_app/js/libs/localstorage_adapter.js",
+		"/Users/mark/Dropbox/RoR_testProjs/Ember_Simple_Invoice/js/models/items.js",
+		"/Users/mark/Dropbox/RoR_testProjs/Ember_Simple_Invoice/js/router.js",
+		"/Users/mark/Dropbox/RoR_testProjs/Ember_Simple_Invoice/js/application.js",
+		"/Users/mark/Dropbox/RoR_testProjs/Ember_Simple_Invoice/js/views/invoice_view.js",
+		"/Users/mark/Dropbox/RoR_testProjs/Ember_Simple_Invoice/js/controllers/simple_controller.js",
+		"/Users/mark/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/mark/Dropbox/RoR_testProjs/Ember_starter-kit-1.8.1/js/todo.js",
+		"/Users/mark/Dropbox/RoR_testProjs/Ember_todo_app/css/styles.css",
+		"/Users/mark/Dropbox/RoR_testProjs/Ember_todo_app/css/normalize.css",
+		"/Users/mark/Dropbox/RoR_testProjs/Ember_starter-kit-1.8.1/js/exhibits.json",
+		"/Users/mark/Library/Application Support/Sublime Text 2/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/mark/Dropbox/RoR_testProjs/Ember_starter-kit-1.8.1/.jsbeautifyrc",
+		"/Users/mark/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/mark/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Users/mark/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/mark/Dropbox/RoR_testProjs/Ember_starter-kit-1.8.1/js/libs/localstorage_adapter.js",
+		"/Users/mark/Dropbox/RoR_testProjs/Ember_starter-kit-1.8.1/index.html",
+		"/Users/mark/Desktop/AngularTest/index.html",
+		"/Users/mark/Dropbox/RoR_testProjs/AngularDemo/vendor/assets/javascripts/angular.min.js",
+		"/Users/mark/Dropbox/RoR_testProjs/AngularDemo/vendor/assets/javascripts/angular-route.min.js.map",
+		"/Users/mark/Dropbox/RoR_testProjs/AngularDemo/vendor/assets/javascripts/angular.min.js.map",
+		"/Users/mark/Dropbox/RoR_testProjs/AngularDemo/vendor/assets/javascripts/angular-route.min.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"speaker_id",
+			"def create\n    speaker = Speaker.new\n    speaker.name = params[:speaker]['name']\n    speaker.save!\n    render json: speaker\n  end",
+			"vendor",
+			"		\n",
+			"');\n",
+			"ApplicationController",
+			"find",
+			"links",
+			"body",
+			"chrome",
+			"open",
+			"browser"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"bower_components"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "rails/app/serializers/speaker_serializer.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 131,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								131,
+								131
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ember/app/adapters/application.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 152,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "ember/app/routes/speakers/create.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 334,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "rails/app/controllers/api/speakers_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 601,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "bostonember.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 359.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
